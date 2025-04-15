@@ -1,11 +1,16 @@
 # Calendar App for Office Days Scheduling
 
+This is a custom-built **Office Days Scheduler** application developed using **Microsoft PowerApps**.
+
+## App Overview
+
 The Office Days Scheduler helps employees specify which days they will be working in the office and notifies others of their schedule. Users can enter their in-office days, view when others will be in, and update their office attendance status. This helps improve office management and communication, particularly in hybrid work environments.
 
-![alt text](image.png)
+<img src="image.png" alt="alt text" height="500"/>
 
+
+## Key Features:
 The application features a user-friendly interface with the following key components:
-
 ### 1. **Create Event**
 
 - **Country Selector**: Select the relevant country for your office location from a drop-down menu
@@ -27,6 +32,6 @@ Each event entry includes:
 ### 3. **Settings**
 - In the app settings, you can select predefined values for Country, Office, and Seat ID, so you don’t need to enter these details every time.
 
-### System Requirements
+## System Requirements
 - The app requires an active Microsoft account for usage, with PowerApps access permissions.
 - No additional installation is required, as the app runs directly in the browser or the PowerApps mobile app.
